@@ -7,21 +7,21 @@ Data and Part analysis of a bike servicing company
 
 # Steps Involved:
 
-> Data Analysis:
+## Data Analysis:
 - Customer and Payment Data: Analyze this data to find patterns and identify customers who bring in the most revenue.
 - Parts Used Data: Analyze the usage patterns of various bike parts during servicing.
 
-> High-Value Customers:
+## High-Value Customers:
 - Extract customer data from CSV files.
 - Use basic statistical methods to find which customers spend the most.
 - Identify trends in customer spending to highlight those who are most valuable to the business.
 
-> Predicting Parts Usage:
+## Predicting Parts Usage:
 - Use historical data on parts used during servicing.
 - Predict future demand for bike parts to ensure the right parts are in stock when needed.
 - Focus on reducing the inventory rotation time, meaning parts don’t sit in stock for too long.
 
-> Inventory Management:
+## Inventory Management:
 - Based on the prediction, adjust inventory levels.
 - Aim to reduce the duration that many items remain in inventory by more than 5 days.
 
